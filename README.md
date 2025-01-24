@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Ali Salim </h1>
 <h3 align="center">A multi-disciplinary engineer with a focus on web development, data science, and DevOps, actively contributing to open-source projects and pursuing a writing career.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadAdnanKhan&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAdnanKhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayn-codes&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAdnanKhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zayn-codes" alt="zayn-codes" /></a> </p>
 

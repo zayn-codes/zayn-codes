@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayn-codes&show_icons=true&locale=en&layout=compact" alt="zayn-codes" /></p>
   </div>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadAdnanKhan&show_icons=true&locale=en" alt="MohammadAdnanKhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayn-codes&show_icons=true&locale=en" alt="zayn-codes" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayn-codes&" alt="zayn-codes" /></p>
 </div>
 <div align="center">

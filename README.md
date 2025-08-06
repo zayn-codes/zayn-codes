@@ -6,7 +6,7 @@
 
 - 👋 I’m a student at **Dr. APJ ABDUL KALAM TECHNICAL UNIVERSITY**
 
-- 💻 I am currently pursuing **Btech** and this is my **3rd semester** going on
+- 💻 I am currently pursuing **Btech** and this is my **5th semester** going on
 
 - 🔭 Currently developing my skills in web development, data science, DevOps, and machine learning while pursuing my passion for writing......
 

@@ -30,7 +30,6 @@
   </div>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayn-codes&show_icons=true&locale=en" alt="zayn-codes" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayn-codes&" alt="zayn-codes" /></p>
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayn-codes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
